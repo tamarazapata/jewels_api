@@ -1,8 +1,8 @@
-# 💎 Tienda de Joyas API
+# Tienda de Joyas API
 
 API REST para la gestión de una tienda de joyas. Permite obtener joyas con filtros avanzados, paginación y ordenamiento, además de operaciones CRUD.
 
-## 🚀 Instalación y Ejecución
+## Instalación y Ejecución
 
 1. **Clonar el repositorio**:
    ```sh
